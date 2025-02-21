@@ -1,1 +1,1 @@
-![WSG](image.png)
+![WSG](image.jpg)
